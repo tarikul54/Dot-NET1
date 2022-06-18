@@ -35,8 +35,8 @@
                                 <asp:TextBox ID="txtPassword"  runat="server" CssClass ="form-control" placeholder="Password" TextMode="Password"></asp:TextBox>
                             </div>
                             <div class="form-check mt-2">
-                              <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                              <label class="form-check-label" for="flexCheckDefault">
+                                <asp:CheckBox ID="ChkRememberMe" CssClass="form-check-input" runat="server" />
+                               <label class="form-check-label" for="flexCheckDefault">
                                 Remember
                               </label>
                             </div>

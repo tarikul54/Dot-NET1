@@ -13,12 +13,25 @@ namespace RealProjectB1.MasterPages
         {
             if (!IsPostBack)
             {
-                lblUserName.Text = Session["UserName"].ToString();
-                string userid = Session["UserId"].ToString();
-                imgUser.ImageUrl = "~/assets/img/Users/"+userid+".png";
-
-               // string imgurl = "~/assets/img/Users/"+userid+".png";
+                if (Session["UserName"] != null && Session["UserId"] != null)
+                {
+                    lblUserName.Text = Session["UserName"].ToString();
+                    string userid = Session["UserId"].ToString();
+                    imgUser.ImageUrl = "~/assets/img/Users/" + userid + ".png";
+                }
+                else
+                {
+                    Response.Redirect("~/auth/login.aspx");
+                }
             }
+                
+        }
+
+        protected void btnLogout_Click(object sender, EventArgs e)
+        {
+            Session.Clear();
+            Session.Abandon();
+            Response.Redirect("~/auth/login.aspx");
         }
     }
 }

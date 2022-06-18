@@ -51,6 +51,15 @@ namespace RealProjectB1.auth
         protected global::System.Web.UI.WebControls.TextBox txtPassword;
 
         /// <summary>
+        /// ChkRememberMe control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox ChkRememberMe;
+
+        /// <summary>
         /// btnLogin control.
         /// </summary>
         /// <remarks>
