@@ -1,0 +1,24 @@
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\DOT NET\class 33\SMS\BLL\bin\Debug\BLL.dll
+E:\DOT NET\class 33\SMS\BLL\bin\Debug\BLL.pdb
+E:\DOT NET\class 33\SMS\BLL\bin\Debug\DAL.dll
+E:\DOT NET\class 33\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DOT NET\class 33\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DOT NET\class 33\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\DOT NET\class 33\SMS\BLL\bin\Debug\DAL.pdb
+E:\DOT NET\class 33\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\DOT NET\class 33\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\DOT NET\class 33\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\DOT NET\class 33\SMS\BLL\obj\Debug\BLL.dll
+E:\DOT NET\class 33\SMS\BLL\obj\Debug\BLL.pdb
